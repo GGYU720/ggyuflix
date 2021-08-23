@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/ggyuflix/static/js/main.1c596120.chunk.js",
-    "main.js.map": "/ggyuflix/static/js/main.1c596120.chunk.js.map",
+    "main.js": "/ggyuflix/static/js/main.d49a8b93.chunk.js",
+    "main.js.map": "/ggyuflix/static/js/main.d49a8b93.chunk.js.map",
     "runtime-main.js": "/ggyuflix/static/js/runtime-main.917978e1.js",
     "runtime-main.js.map": "/ggyuflix/static/js/runtime-main.917978e1.js.map",
-    "static/js/2.82983668.chunk.js": "/ggyuflix/static/js/2.82983668.chunk.js",
-    "static/js/2.82983668.chunk.js.map": "/ggyuflix/static/js/2.82983668.chunk.js.map",
+    "static/js/2.d629399c.chunk.js": "/ggyuflix/static/js/2.d629399c.chunk.js",
+    "static/js/2.d629399c.chunk.js.map": "/ggyuflix/static/js/2.d629399c.chunk.js.map",
     "index.html": "/ggyuflix/index.html",
-    "static/js/2.82983668.chunk.js.LICENSE.txt": "/ggyuflix/static/js/2.82983668.chunk.js.LICENSE.txt",
+    "static/js/2.d629399c.chunk.js.LICENSE.txt": "/ggyuflix/static/js/2.d629399c.chunk.js.LICENSE.txt",
     "static/media/noPosterSmall.png": "/ggyuflix/static/media/noPosterSmall.ea2ad102.png"
   },
   "entrypoints": [
     "static/js/runtime-main.917978e1.js",
-    "static/js/2.82983668.chunk.js",
-    "static/js/main.1c596120.chunk.js"
+    "static/js/2.d629399c.chunk.js",
+    "static/js/main.d49a8b93.chunk.js"
   ]
 }
