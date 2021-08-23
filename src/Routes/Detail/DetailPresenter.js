@@ -72,7 +72,7 @@ const DetailPresenter = ({ result, loading, error }) =>
   loading ? (
     <>
       <Helmet>
-        <title>Loading | Nomflix</title>
+        <title>Loading | GGYUFLIX</title>
       </Helmet>
       <Loader />
     </>
@@ -81,7 +81,7 @@ const DetailPresenter = ({ result, loading, error }) =>
       <Helmet>
         <title>
           {result.original_title ? result.original_title : result.original_name}{" "}
-          | Netflix
+          | GGYUFLIX
         </title>
       </Helmet>
       <Backdrop
@@ -110,7 +110,7 @@ const DetailPresenter = ({ result, loading, error }) =>
             </Item>
             <Divider>•</Divider>
             <Item>
-              {result.runtime ? result.runtime : result.episode_run_time[0]} min
+              {result.runtime || result.episode_run_time} min
             </Item>
             <Divider>•</Divider>
             <Item>

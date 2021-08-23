@@ -14,14 +14,14 @@ const Container = styled.div`
 const HomePresenter = ({ nowPlaying, popular, upcoming, loading, error }) => (
   <>
     <Helmet>
-      <title>Movies | Netflix</title>
+      <title>Movies | GGYUFLIX</title>
     </Helmet>
     {loading ? (
       <Loader />
     ) : (
       <Container>
         <Helmet>
-          <title>Movies | Netflix</title>
+          <title>Movies | GGYUFLIX</title>
         </Helmet>
         {nowPlaying && nowPlaying.length > 0 && (
           <Section title="Now Playing">
